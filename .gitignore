@@ -1,0 +1,23 @@
+# Project-specific
+contextiq/
+
+# Go Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Application Data
+durable.wal
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
